@@ -40,16 +40,15 @@ The project is organized around realistic questions a manager or stakeholder mig
 5. **State reference and ANSI codes**  
    - 50 states and their `State_ANSI` codes from `state_lookup` were retreived.  
    -  the `State_ANSI` code for Florida was 12.  
-   -  There were 50 states with their cheese production values for April 2023 including states with no cheese production were retreived.
-   -  Total cheese production for NEW JERSEY in April 2023 was 4,889,000
 
 6. **Cross-commodity dairy analysis**
    - There was 50 states with their cheese production values (including no production)
+   - Total cheese production for NEW JERSEY in April 2023 was 4,889,000
 
-7. **Missing milk data (2023)**  
-   - 1,171,095,000 was the total yogurt production for states in the year 2022 that also have cheese production data from 2023
+7. **Cross-Commodity Dairy Analysis (Yogurt 2022 for Cheese-Producing States in 2023)**  
+   - 1,171,095,000 pounds was the total yogurt production for states in the year 2022 that also have cheese production data from 2023
 
-8. **Cheese production availability and conditional analysis**  
+8. **Missing Milk Production Data (2023)s**  
    - 26 States were missing milk production data in 2023
 
 9. **Delaware Cheese Production Availability (April 2023)**
