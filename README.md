@@ -2,32 +2,18 @@
 
 This project showcases end-to-end data analysis using real-world style agricultural data from the United States Department of Agriculture (USDA). The focus is on using SQL to explore multi-year, multi-commodity production data across U.S. states and answer business-oriented questions.
 
-The project is positioned as a Data Analyst case study: working with relational-style tables, writing queries, and generating insights that could support reporting and decision-making.
-
 ---
 
 ## Data
-
-The dataset consists of several CSV files that represent different production tables and a state reference:
-
-- `milk_production.csv`  
-- `cheese_production.csv`  
-- `coffee_production.csv`  
-- `honey_production.csv`  
-- `yogurt_production.csv`  
-- `egg_production.csv` (optional, for extended analysis)  
-- `state_lookup.csv`  
-
-Typical columns include:
-
-- `Year`
-- `Period` (e.g., APR, YEAR)
-- `Geo_Level` (STATE)
-- `State_ANSI` (state code)
-- `Commodity_ID`
-- `Domain` (for some tables)
-- `Value` (production amount, originally stored with commas as thousands separators)
-- `State` (in `state_lookup`)
+USDA-Production-Analysis/
+│
+├── Data/               # Raw CSV files (milk, cheese, honey, yogurt, eggs, coffee, states)
+│
+├── analysis/    # Query scripts answering Questions 1–10
+├── cleaning/    # SQL scripts to clean imported CSV data
+├── results/            # Screenshots of SQL query outputs
+│
+└── README.md           # Project documentation
 
 ---
 
