@@ -1,3 +1,9 @@
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Portfolio-green)
+![SQLite](https://img.shields.io/badge/Database-SQLite-orange)
+![DBeaver](https://img.shields.io/badge/Tool-DBeaver-lightgrey)
+![USDA Data](https://img.shields.io/badge/Data-USDA%20Production-yellow)
+
 # USDA Agricultural Production SQL Analysis
 
 This project showcases end-to-end data analysis using real-world style agricultural data from the United States Department of Agriculture (USDA). The focus is on using SQL to explore multi-year, multi-commodity production data across U.S. states and answer business-oriented questions.
