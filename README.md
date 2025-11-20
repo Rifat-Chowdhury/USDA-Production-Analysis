@@ -7,13 +7,16 @@ This project showcases end-to-end data analysis using real-world style agricultu
 ## Data
 USDA-Production-Analysis/
 │
-├── Data/               # Raw CSV files (milk, cheese, honey, yogurt, eggs, coffee, states)
+├── Data/                # Raw CSV files (milk, cheese, honey, yogurt, eggs, coffee, states)
 │
-├── analysis/    # Query scripts answering Questions 1–10
-├── cleaning/    # SQL scripts to clean imported CSV data
-├── results/            # Screenshots of SQL query outputs
+├── analysis/            # Query scripts answering Questions 1–10
 │
-└── README.md           # Project documentation
+├── cleaning/            # SQL scripts to clean imported CSV data
+│
+├── results/             # Screenshots of SQL query outputs
+│
+└── README.md            # Project documentation
+```
 
 ---
 
